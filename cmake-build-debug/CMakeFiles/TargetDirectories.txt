@@ -1,0 +1,3 @@
+C:/Users/YIANZ/CLionProjects/Connections/cmake-build-debug/CMakeFiles/F1NAL.dir
+C:/Users/YIANZ/CLionProjects/Connections/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/YIANZ/CLionProjects/Connections/cmake-build-debug/CMakeFiles/rebuild_cache.dir
